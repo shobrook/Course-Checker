@@ -1,5 +1,10 @@
 """
+Course Notifications
 
+
+@Technologies: Flask and LXML
+@Author: Jonathan Shobrook
+@Date: 1/2/17
 """
 
 import time
